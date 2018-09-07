@@ -1,0 +1,20 @@
+{
+  "name": "api-restfull-favoritos",
+  "version": "1.0.0",
+  "description": "Proyecto de Api restfull con node.js y angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon inde.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesús López",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
